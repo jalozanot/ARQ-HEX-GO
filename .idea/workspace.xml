@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59b2282a-ea28-45c1-8274-7383cc56d075" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1jEbTuqslz3GlgeccleAr9AEcem" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ejercicios-golang" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\go\src\github.com\jalozanot\demoCeiba\infrastructure\app" />
+      <recent name="D:\go\src\github.com\jalozanot\demoCeiba\domain\ports" />
+      <recent name="D:\go\src\github.com\jalozanot\demoCeiba\infrastructure\adapters" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\go\src\github.com\jalozanot\demoCeiba\domain\ports" />
+      <recent name="D:\go\src\github.com\jalozanot\demoCeiba\application\usescases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.application_test.go (1)">
+    <configuration name="TestMovieControllerSave in github.com/jalozanot/demoCeiba/infrastructure/app (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demoCeiba" />
+      <working_directory value="$PROJECT_DIR$/infrastructure/app" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/jalozanot/demoCeiba/infrastructure/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMovieControllerSave\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMovieControllerUpdate in github.com/jalozanot/demoCeiba/infrastructure/app" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demoCeiba" />
+      <working_directory value="$PROJECT_DIR$/infrastructure/app" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/jalozanot/demoCeiba/infrastructure/app" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMovieControllerUpdate\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="application_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demoCeiba" />
+      <working_directory value="$PROJECT_DIR$/infrastructure/app" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/jalozanot/demoCeiba" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/infrastructure/app/application_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="application_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demoCeiba" />
+      <working_directory value="$PROJECT_DIR$/infrastructure/app" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/jalozanot/demoCeiba" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/infrastructure/app/application_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test demoCeiba" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="demoCeiba" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="github.com/jalozanot/demoCeiba" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.application_test.go (1)" />
+        <item itemvalue="Go Test.TestMovieControllerUpdate in github.com/jalozanot/demoCeiba/infrastructure/app" />
+        <item itemvalue="Go Test.TestMovieControllerSave in github.com/jalozanot/demoCeiba/infrastructure/app (1)" />
+        <item itemvalue="Go Test.go test demoCeiba" />
+        <item itemvalue="Go Test.application_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="-911" key="FileChooserDialogImpl" timestamp="1604284544776">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="404" y="-911" key="FileChooserDialogImpl/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604284544776" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728/-247.-1080.1920.1040@0.0.1366.728" timestamp="1603687780689" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1604687424163">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604687424163" />
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/-247.-1080.1920.1040@0.0.1366.728" timestamp="1603737005519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603381579314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1604687424163">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604687424163" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.728/-247.-1080.1920.1040@0.0.1366.728" timestamp="1603737005519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603381579314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1604687424163">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604687424163" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.728/-247.-1080.1920.1040@0.0.1366.728" timestamp="1603737005519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603381579314" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1604687424163">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604687424163" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.728/-247.-1080.1920.1040@0.0.1366.728" timestamp="1603737005519" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603381579314" />
+    <state x="419" y="-827" width="587" height="534" key="find.popup" timestamp="1604156647135">
+      <screen x="-247" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="419" y="-827" width="587" height="534" key="find.popup/0.0.1366.728/-247.-1080.1920.1040@-247.-1080.1920.1040" timestamp="1604156647135" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demoCeiba$TestMovieController_in_github_com_jalozanot_demoCeiba_infrastructure_app.out" NAME="TestMovieController in github.com/jalozanot/demoCeiba/infrastructure/app Coverage Results" MODIFIED="1604155500816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$TestNginxLatestReturn_in_github_com_jalozanot_demoCeiba_infrastructure_adapters_repository_movie_rep.out" NAME="TestNginxLatestReturn in github.com/jalozanot/demoCeiba/infrastructure/adapters/repository/movie_rep Coverage Results" MODIFIED="1603726783751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$application_test_go.out" NAME="application_test.go Coverage Results" MODIFIED="1604171189895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$TestMovieController_in_github_com_jalozanot_demoCeiba_infrastructure_app__1_.out" NAME="TestMovieController in github.com/jalozanot/demoCeiba/infrastructure/app (1) Coverage Results" MODIFIED="1604160246352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$Test_repository_Create_in_github_com_jalozanot_demoCeiba_infrastructure_app.out" NAME="Test_repository_Create in github.com/jalozanot/demoCeiba/infrastructure/app Coverage Results" MODIFIED="1604158239882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$TestPingPong_in_github_com_jalozanot_demoCeiba_infrastructure_app.out" NAME="TestPingPong in github.com/jalozanot/demoCeiba/infrastructure/app Coverage Results" MODIFIED="1604152929632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$application_test_go__1_.out" NAME="application_test.go (1) Coverage Results" MODIFIED="1604430176318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$TestMovieControllerDelete_in_github_com_jalozanot_demoCeiba_infrastructure_app.out" NAME="TestMovieControllerDelete in github.com/jalozanot/demoCeiba/infrastructure/app Coverage Results" MODIFIED="1604171097202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$movie_mysql_repository_test_go.out" NAME="movie_mysql_repository_test.go Coverage Results" MODIFIED="1603728028299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$TestUserMysqlRepository_Save_in_github_com_jalozanot_demoCeiba_infrastructure_adapters_repository_movie_rep.out" NAME="TestUserMysqlRepository_Save in github.com/jalozanot/demoCeiba/infrastructure/adapters/repository/movie_rep Coverage Results" MODIFIED="1603728661064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/demoCeiba$go_test_demoCeiba.out" NAME="go test demoCeiba Coverage Results" MODIFIED="1604427733846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
